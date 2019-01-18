@@ -15,7 +15,7 @@
   ],
   "name": "mo-claims-management",
   "publishing-goal": "Update set",
-  "solution-details": "A Mobile Application to demonstrate Servicenow new mobile capability.",
+  "solution-details": "A Mobile Application to demonstrate the new mobile capabilities of ServiceNow.",
   "type": "Mobile",
   "version": "1.0.0"
 }
