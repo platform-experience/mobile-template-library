@@ -14,7 +14,7 @@ A Mobile Application to demonstrate the new mobile capabilities of ServiceNow.
 
 ## Installation
 
-Download and install update set **[va-pay-discrepancy.u-update-set.xml](https://github.com/platform-experience/mobile-template-library/blob/master/mo-claims-management/mo-claims-management.u-update-set.xml)**
+Download and install update set **[mo-claims-management.u-update-set.xml](https://github.com/platform-experience/mobile-template-library/blob/master/src/mo-claims-management/mo-claims-management.u-update-set.xml)**
 
 * SN Product Documentation - ['Load a customization from a single XML file'](https://docs.servicenow.com/bundle/kingston-application-development/page/build/system-update-sets/task/t_SaveAnUpdateSetAsAnXMLFile.html)
 
