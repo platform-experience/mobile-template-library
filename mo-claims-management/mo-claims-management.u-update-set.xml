@@ -1,0 +1,1153 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2019-01-17 23:03:11">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</application>
+<application_name>SKO19 mobile app</application_name>
+<application_scope>x_snc_sko19_mobile</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description> </description>
+<inserted/>
+<name>SKO19 mobile app</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>1f7b0f7968cb23007f440b24c9f80e15</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-01-17 23:03:11</sys_created_on>
+<sys_id>fe8b0b7968cb23007f440b24c9f80edd</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-01-17 23:03:11</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</application>
+<category>customer</category>
+<comments/>
+<name>sys_sg_action_param_map_47599eb9688b23007f440b24c9f80e79</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map"><sys_sg_action_param_map action="INSERT_OR_UPDATE"><button display_value="Edit case">afa796b9688b23007f440b24c9f80e4d</button><item_parameter display_value="state">af2716b9688b23007f440b24c9f80e12</item_parameter><sys_class_name>sys_sg_action_param_map</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-01-17 19:24:05</sys_created_on><sys_id>47599eb9688b23007f440b24c9f80e79</sys_id><sys_mod_count>0</sys_mod_count><sys_name>af2716b9688b23007f440b24c9f80e12</sys_name><sys_package display_value="SKO19 mobile app" source="x_snc_sko19_mobile">6c21ffe208b223007f44591d7bc9c4ec</sys_package><sys_policy/><sys_scope display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</sys_scope><sys_update_name>sys_sg_action_param_map_47599eb9688b23007f440b24c9f80e79</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-01-17 19:24:05</sys_updated_on><ui_parameter display_value="State">32d85eb9688b23007f440b24c9f80e15</ui_parameter></sys_sg_action_param_map></record_update>]]></payload>
+<payload_hash>1725312826</payload_hash>
+<remote_update_set display_value="SKO19 mobile app">fe8b0b7968cb23007f440b24c9f80edd</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-01-17 23:03:11</sys_created_on>
+<sys_id>328b4f7968cb23007f440b24c9f80e19</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1685e0da0d30000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-01-17 23:03:11</sys_updated_on>
+<table/>
+<target_name>af2716b9688b23007f440b24c9f80e12</target_name>
+<type>Action parameters mapping</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</application>
+<category>customer</category>
+<comments/>
+<name>sys_sg_details_screen_27f88e35688b23007f440b24c9f80e11</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_details_screen"><sys_sg_details_screen action="INSERT_OR_UPDATE"><application_roles/><available_offline>true</available_offline><data_item display_value="New Cases">58570a35688b23007f440b24c9f80ebf</data_item><description>New claims app</description><fetch_type>not_required</fetch_type><hidden>false</hidden><icon display_value="list-alt">9bf80275688b23007f440b24c9f80e71</icon><item_view display_value="New Claims detail item view">d3f80275688b23007f440b24c9f80e74</item_view><name>Details</name><order>10</order><parent>d7f80275688b23007f440b24c9f80e77</parent><parent_table>sys_sg_master_item</parent_table><roles_override/><sys_class_name>sys_sg_details_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-01-17 18:12:25</sys_created_on><sys_id>27f88e35688b23007f440b24c9f80e11</sys_id><sys_mod_count>10</sys_mod_count><sys_name>Details</sys_name><sys_package display_value="SKO19 mobile app" source="x_snc_sko19_mobile">6c21ffe208b223007f44591d7bc9c4ec</sys_package><sys_policy/><sys_scope display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</sys_scope><sys_update_name>sys_sg_details_screen_27f88e35688b23007f440b24c9f80e11</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-01-17 19:31:39</sys_updated_on></sys_sg_details_screen><sys_translated_text action="delete_multiple" query="documentkey=27f88e35688b23007f440b24c9f80e11"/></record_update>]]></payload>
+<payload_hash>-534694854</payload_hash>
+<remote_update_set display_value="SKO19 mobile app">fe8b0b7968cb23007f440b24c9f80edd</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-01-17 23:03:11</sys_created_on>
+<sys_id>328b4f7968cb23007f440b24c9f80e1c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1685e0da1160000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-01-17 23:03:11</sys_updated_on>
+<table/>
+<target_name>Details</target_name>
+<type>Details screen</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</application>
+<category>customer</category>
+<comments/>
+<name>sys_sg_ui_parameter_30185ab9688b23007f440b24c9f80e25</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter"><sys_sg_ui_parameter action="INSERT_OR_UPDATE"><button display_value="Edit case">afa796b9688b23007f440b24c9f80e4d</button><button_parent_table>sn_customerservice_case</button_parent_table><carried>false</carried><constant/><default_value/><default_value_type>source_field</default_value_type><field_name/><input_source>user</input_source><input_style>inline</input_style><input_type>text</input_type><mandatory>false</mandatory><multi_select>false</multi_select><name>Description</name><order/><parameter_type>button</parameter_type><placeholder/><screen/><search_type>starts_with</search_type><source_field>description</source_field><sys_class_name>sys_sg_ui_parameter</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-01-17 19:21:27</sys_created_on><sys_id>30185ab9688b23007f440b24c9f80e25</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Description</sys_name><sys_package display_value="SKO19 mobile app" source="x_snc_sko19_mobile">6c21ffe208b223007f44591d7bc9c4ec</sys_package><sys_policy/><sys_scope display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</sys_scope><sys_update_name>sys_sg_ui_parameter_30185ab9688b23007f440b24c9f80e25</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-01-17 19:21:27</sys_updated_on><table_name/></sys_sg_ui_parameter><sys_translated_text action="delete_multiple" query="documentkey=30185ab9688b23007f440b24c9f80e25"/></record_update>]]></payload>
+<payload_hash>1124669748</payload_hash>
+<remote_update_set display_value="SKO19 mobile app">fe8b0b7968cb23007f440b24c9f80edd</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-01-17 23:03:11</sys_created_on>
+<sys_id>328b4f7968cb23007f440b24c9f80e1f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1685e0da0aa0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-01-17 23:03:11</sys_updated_on>
+<table/>
+<target_name>Description</target_name>
+<type>UI parameter</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_6c21ffe208b223007f44591d7bc9c4ec</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app"><sys_app action="INSERT_OR_UPDATE"><active>true</active><can_edit_in_studio>false</can_edit_in_studio><enforce_license>log</enforce_license><js_level>helsinki_es5</js_level><licensable>true</licensable><license_category>none</license_category><license_model>none</license_model><logo/><menu/><name>SKO19 mobile app</name><private>false</private><restrict_table_access>false</restrict_table_access><runtime_access_tracking>permissive</runtime_access_tracking><scope>x_snc_sko19_mobile</scope><scoped_administration>false</scoped_administration><short_description/><source>x_snc_sko19_mobile</source><store_correlation_id/><store_url/><sys_class_name>sys_app</sys_class_name><sys_code/><sys_created_by>admin</sys_created_by><sys_created_on>2019-01-07 23:27:10</sys_created_on><sys_id>6c21ffe208b223007f44591d7bc9c4ec</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-01-07 23:27:10</sys_updated_on><template/><trackable>true</trackable><user_role/><vendor/><vendor_prefix/><version>1.0.0</version></sys_app></record_update>]]></payload>
+<payload_hash>-1711857312</payload_hash>
+<remote_update_set display_value="SKO19 mobile app">fe8b0b7968cb23007f440b24c9f80edd</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-01-17 23:03:11</sys_created_on>
+<sys_id>368b0b7968cb23007f440b24c9f80ede</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1685e0d9f150000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-01-17 23:03:11</sys_updated_on>
+<table/>
+<target_name>SKO19 mobile app</target_name>
+<type>Custom Application</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</application>
+<category>customer</category>
+<comments/>
+<name>sys_sg_button_instance_9b3a92f9688b23007f440b24c9f80e7a</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="Case location button">dad092f5688b23007f440b24c9f80eb9</button><description/><field_name>location</field_name><label>Location_field</label><location>field</location><name>Location_field</name><order>2</order><parent>27f88e35688b23007f440b24c9f80e11</parent><parent_table>sys_sg_details_screen</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-01-17 19:27:46</sys_created_on><sys_id>9b3a92f9688b23007f440b24c9f80e7a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Location_field</sys_name><sys_package display_value="SKO19 mobile app" source="x_snc_sko19_mobile">6c21ffe208b223007f44591d7bc9c4ec</sys_package><sys_policy/><sys_scope display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</sys_scope><sys_update_name>sys_sg_button_instance_9b3a92f9688b23007f440b24c9f80e7a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-01-17 19:27:46</sys_updated_on><table>sn_customerservice_case</table></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=9b3a92f9688b23007f440b24c9f80e7a"/></record_update>]]></payload>
+<payload_hash>-57690907</payload_hash>
+<remote_update_set display_value="SKO19 mobile app">fe8b0b7968cb23007f440b24c9f80edd</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-01-17 23:03:11</sys_created_on>
+<sys_id>368b4f7968cb23007f440b24c9f80e1b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1685e0da0e90000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-01-17 23:03:11</sys_updated_on>
+<table>sn_customerservice_case</table>
+<target_name>Location_field</target_name>
+<type>Function instance</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</application>
+<category>customer</category>
+<comments/>
+<name>sys_sg_screen_field_aa5d4eb5688b23007f440b24c9f80ef3</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field"><sys_sg_screen_field action="INSERT_OR_UPDATE"><data_item_field_name>location</data_item_field_name><hidden>false</hidden><order>10</order><screen display_value="Details">27f88e35688b23007f440b24c9f80e11</screen><screen_data_item_table>sn_customerservice_case</screen_data_item_table><sys_class_name>sys_sg_screen_field</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-01-17 18:31:28</sys_created_on><sys_id>aa5d4eb5688b23007f440b24c9f80ef3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>location</sys_name><sys_package display_value="SKO19 mobile app" source="x_snc_sko19_mobile">6c21ffe208b223007f44591d7bc9c4ec</sys_package><sys_policy/><sys_scope display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</sys_scope><sys_update_name>sys_sg_screen_field_aa5d4eb5688b23007f440b24c9f80ef3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-01-17 18:31:28</sys_updated_on><type>auto</type></sys_sg_screen_field></record_update>]]></payload>
+<payload_hash>-1740797594</payload_hash>
+<remote_update_set display_value="SKO19 mobile app">fe8b0b7968cb23007f440b24c9f80edd</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-01-17 23:03:11</sys_created_on>
+<sys_id>368b4f7968cb23007f440b24c9f80e1e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1685e0d9fd60000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-01-17 23:03:11</sys_updated_on>
+<table/>
+<target_name>location</target_name>
+<type>Screen fields</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</application>
+<category>customer</category>
+<comments/>
+<name>sys_sg_button_dad092f5688b23007f440b24c9f80eb9</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button"><sys_sg_button action="INSERT_OR_UPDATE"><allow_images_upload>false</allow_images_upload><auto_redirection>false</auto_redirection><cancel_label/><condition table="sn_customerservice_case">locationISNOTEMPTY<item endquery="false" field="location" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/></condition><condition_script/><condition_type>declarative</condition_type><confirm_label/><confirmation_message/><context>record</context><description/><destination_screen/><external_browser>false</external_browser><failure_message/><field_name>location</field_name><hide_buttons/><hide_fields/><jump_to_screen>false</jump_to_screen><link_label/><link_url/><mail_address/><mail_content/><mail_subject/><name>Case location button</name><offline>false</offline><offline_template_field/><offline_template_field_table/><phone_number/><phone_type>cellular</phone_type><relative_url>false</relative_url><roles/><select_current_record>false</select_current_record><show_buttons/><show_confirmation>false</show_confirmation><show_fields/><show_signature>false</show_signature><sms/><success_message/><sys_class_name>sys_sg_button</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-01-17 18:46:44</sys_created_on><sys_id>dad092f5688b23007f440b24c9f80eb9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Case location button</sys_name><sys_package display_value="SKO19 mobile app" source="x_snc_sko19_mobile">6c21ffe208b223007f44591d7bc9c4ec</sys_package><sys_policy/><sys_scope display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</sys_scope><sys_update_name>sys_sg_button_dad092f5688b23007f440b24c9f80eb9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-01-17 18:46:44</sys_updated_on><table>sn_customerservice_case</table><take_value_from_field>true</take_value_from_field><type>map</type><write_back_action_item/><zombified_screens/></sys_sg_button><sys_translated_text action="delete_multiple" query="documentkey=dad092f5688b23007f440b24c9f80eb9"/></record_update>]]></payload>
+<payload_hash>889966036</payload_hash>
+<remote_update_set display_value="SKO19 mobile app">fe8b0b7968cb23007f440b24c9f80edd</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-01-17 23:03:11</sys_created_on>
+<sys_id>3a8b4f7968cb23007f440b24c9f80e1a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1685e0da00c0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-01-17 23:03:11</sys_updated_on>
+<table>sn_customerservice_case</table>
+<target_name>Case location button</target_name>
+<type>Function</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</application>
+<category>customer</category>
+<comments/>
+<name>sys_sg_item_view_dbf80275688b23007f440b24c9f80e8b</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view"><sys_sg_item_view action="INSERT_OR_UPDATE"><data_item display_value="New Cases">58570a35688b23007f440b24c9f80ebf</data_item><dependency_fields>priority,number,short_description,opened_by.photo,opened_by,location</dependency_fields><item_view_json>{"Type":"ViewGroup","Margin":{"Top":17,"Bottom":15},"Orientation":"Vertical","Alignment":"Stretch","Distribution":"Auto","Children":[{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Equal","Children":[{"Type":"ViewGroup","Margin":{"Right":12},"Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Children":[{"Type":"Text","CornerRadius":2,"BackgroundColor":"#f1f1f1","Height":21,"Width":100,"Margin":{},"studio_template_field_id":"E1","Text":"","CellId":"priority","TextColor":"#293e40","TextAlignment":"Center","MaxLines":1,"Font":{"Weight":"semibold","Size":13}}]},{"Type":"ViewGroup","Margin":{},"Orientation":"Vertical","Alignment":"Right","Distribution":"Auto","Children":[{"Type":"Text","Margin":{},"studio_template_field_id":"E2","Text":"","TextColor":"#7d8a8c","TextAlignment":"Right","MaxLines":1,"Font":{"Weight":"regular","Size":13},"CellId":"number"}]}]},{"Type":"Text","Margin":{"Top":9},"TextColor":"#293e40","TextAlignment":"Left","MaxLines":2,"Font":{"Weight":"regular","Size":18},"studio_template_field_id":"E3","Text":"","CellId":"short_description"},{"Type":"ViewGroup","Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Children":[{"Type":"ViewGroup","Margin":{"Top":9},"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Text","Margin":{"Right":8},"studio_template_is_label":true,"studio_template_field_id":"E4","TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Text":"${opened_by}"},{"Type":"Image","CornerRadius":11,"Height":22,"Width":22,"Margin":{"Right":6},"studio_template_field_id":"E5","Scaling":"Fill","CellId":"opened_by.photo"},{"Type":"Text","Margin":{},"studio_template_field_id":"E4","Text":"","TextColor":"#293e40","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"CellId":"opened_by"}]},{"Type":"ViewGroup","Margin":{"Top":7},"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Text","studio_template_is_label":true,"studio_template_field_id":"E6","TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Margin":{"Right":8},"Text":"${location}"},{"Type":"Text","Margin":{},"studio_template_field_id":"E6","Text":"","TextColor":"#293e40","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"CellId":"location"}]}]}],"studio_card_id":"9599488923452300a8ed7f4fc7bf652e"}</item_view_json><name>New Claims item view</name><short_description/><sys_class_name>sys_sg_item_view</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-01-17 18:12:24</sys_created_on><sys_id>dbf80275688b23007f440b24c9f80e8b</sys_id><sys_mod_count>1</sys_mod_count><sys_name>New Claims item view</sys_name><sys_package display_value="SKO19 mobile app" source="x_snc_sko19_mobile">6c21ffe208b223007f44591d7bc9c4ec</sys_package><sys_policy/><sys_scope display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</sys_scope><sys_update_name>sys_sg_item_view_dbf80275688b23007f440b24c9f80e8b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-01-17 18:26:05</sys_updated_on><ui_styles>6ccb0ab5688b23007f440b24c9f80e0a,f49b86b5688b23007f440b24c9f80e18,f4ca8e75688b23007f440b24c9f80e7f,66abc6b5688b23007f440b24c9f80eee</ui_styles></sys_sg_item_view><sys_translated_text action="delete_multiple" query="documentkey=dbf80275688b23007f440b24c9f80e8b"/></record_update>]]></payload>
+<payload_hash>-1504489345</payload_hash>
+<remote_update_set display_value="SKO19 mobile app">fe8b0b7968cb23007f440b24c9f80edd</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-01-17 23:03:11</sys_created_on>
+<sys_id>3a8b4f7968cb23007f440b24c9f80e1d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1685e0d9fb50000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-01-17 23:03:11</sys_updated_on>
+<table/>
+<target_name>New Claims item view</target_name>
+<type>Item view</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</application>
+<category>customer</category>
+<comments/>
+<name>sys_sg_write_back_action_item_d8e25e39688b23007f440b24c9f80eec</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_sg_write_back_action_item"&gt;&lt;sys_sg_write_back_action_item action="INSERT_OR_UPDATE"&gt;&lt;description/&gt;&lt;execution_script&gt;&lt;![CDATA[(function WriteBackAction(input) {
+    //Type appropriate comment here, and begin script below
+ 
+})(input);]]&gt;&lt;/execution_script&gt;&lt;name&gt;Case Assign to me&lt;/name&gt;&lt;query_condition/&gt;&lt;sys_class_name&gt;sys_sg_write_back_action_item&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-01-17 18:56:32&lt;/sys_created_on&gt;&lt;sys_id&gt;d8e25e39688b23007f440b24c9f80eec&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;Case Assign to me&lt;/sys_name&gt;&lt;sys_package display_value="SKO19 mobile app" source="x_snc_sko19_mobile"&gt;6c21ffe208b223007f44591d7bc9c4ec&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="SKO19 mobile app"&gt;6c21ffe208b223007f44591d7bc9c4ec&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_sg_write_back_action_item_d8e25e39688b23007f440b24c9f80eec&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-01-17 18:58:37&lt;/sys_updated_on&gt;&lt;table&gt;sn_customerservice_case&lt;/table&gt;&lt;template&gt;assigned_to={{assigned_to}}^EQ&lt;/template&gt;&lt;type&gt;update&lt;/type&gt;&lt;use_current_record_as_condition&gt;true&lt;/use_current_record_as_condition&gt;&lt;/sys_sg_write_back_action_item&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=d8e25e39688b23007f440b24c9f80eec"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1333351487</payload_hash>
+<remote_update_set display_value="SKO19 mobile app">fe8b0b7968cb23007f440b24c9f80edd</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-01-17 23:03:11</sys_created_on>
+<sys_id>3a8b4f7968cb23007f440b24c9f80e20</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1685e0da04d0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-01-17 23:03:11</sys_updated_on>
+<table>sn_customerservice_case</table>
+<target_name>Case Assign to me</target_name>
+<type>Action item</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</application>
+<category>customer</category>
+<comments/>
+<name>sys_sg_application_b3f48ef1688b23007f440b24c9f80e24</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_application"><sys_sg_application action="INSERT_OR_UPDATE"><active>true</active><available_offline>true</available_offline><default>false</default><description/><icon display_value="edit">2bf4c6b1688b23007f440b24c9f80e16</icon><name>Claims Management</name><order/><roles/><sys_class_name>sys_sg_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-01-17 17:54:57</sys_created_on><sys_id>b3f48ef1688b23007f440b24c9f80e24</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Claims Management</sys_name><sys_package display_value="SKO19 mobile app" source="x_snc_sko19_mobile">6c21ffe208b223007f44591d7bc9c4ec</sys_package><sys_policy/><sys_scope display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</sys_scope><sys_update_name>sys_sg_application_b3f48ef1688b23007f440b24c9f80e24</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-01-17 19:30:45</sys_updated_on></sys_sg_application><sys_translated_text action="delete_multiple" query="documentkey=b3f48ef1688b23007f440b24c9f80e24"/></record_update>]]></payload>
+<payload_hash>1709351202</payload_hash>
+<remote_update_set display_value="SKO19 mobile app">fe8b0b7968cb23007f440b24c9f80edd</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-01-17 23:03:11</sys_created_on>
+<sys_id>3e8b4f7968cb23007f440b24c9f80e19</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1685e0da0f50000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-01-17 23:03:11</sys_updated_on>
+<table/>
+<target_name>Claims Management</target_name>
+<type>Mobile Application</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</application>
+<category>customer</category>
+<comments/>
+<name>sys_sg_item_parameter_7b4756b9688b23007f440b24c9f80e17</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter"><sys_sg_item_parameter action="INSERT_OR_UPDATE"><default_value/><name>description</name><parent>cee692b9688b23007f440b24c9f80e11</parent><parent_table>sys_sg_write_back_action_item</parent_table><sys_class_name>sys_sg_item_parameter</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-01-17 19:15:04</sys_created_on><sys_id>7b4756b9688b23007f440b24c9f80e17</sys_id><sys_mod_count>0</sys_mod_count><sys_name>description</sys_name><sys_package display_value="SKO19 mobile app" source="x_snc_sko19_mobile">6c21ffe208b223007f44591d7bc9c4ec</sys_package><sys_policy/><sys_scope display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</sys_scope><sys_update_name>sys_sg_item_parameter_7b4756b9688b23007f440b24c9f80e17</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-01-17 19:15:04</sys_updated_on><type>string</type></sys_sg_item_parameter></record_update>]]></payload>
+<payload_hash>857264293</payload_hash>
+<remote_update_set display_value="SKO19 mobile app">fe8b0b7968cb23007f440b24c9f80edd</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-01-17 23:03:11</sys_created_on>
+<sys_id>3e8b4f7968cb23007f440b24c9f80e1c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1685e0da08c0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-01-17 23:03:11</sys_updated_on>
+<table/>
+<target_name>description</target_name>
+<type>Item Parameter</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</application>
+<category>customer</category>
+<comments/>
+<name>sys_sg_ui_style_6ccb0ab5688b23007f440b24c9f80e0a</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_style"><sys_sg_ui_style action="INSERT_OR_UPDATE"><active>true</active><condition table="sn_customerservice_case">priority=4^EQ<item endquery="false" field="priority" goto="false" newquery="false" operator="=" or="false" value="4"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></condition><field>priority</field><name>Case State low</name><style>{"background_color":"#92ED96","font_color":"#ffffff"}</style><sys_class_name>sys_sg_ui_style</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-01-17 18:24:30</sys_created_on><sys_id>6ccb0ab5688b23007f440b24c9f80e0a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Case State low</sys_name><sys_package display_value="SKO19 mobile app" source="x_snc_sko19_mobile">6c21ffe208b223007f44591d7bc9c4ec</sys_package><sys_policy/><sys_scope display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</sys_scope><sys_update_name>sys_sg_ui_style_6ccb0ab5688b23007f440b24c9f80e0a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-01-17 18:24:30</sys_updated_on><table>sn_customerservice_case</table></sys_sg_ui_style></record_update>]]></payload>
+<payload_hash>-228023320</payload_hash>
+<remote_update_set display_value="SKO19 mobile app">fe8b0b7968cb23007f440b24c9f80edd</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-01-17 23:03:11</sys_created_on>
+<sys_id>3e8b4f7968cb23007f440b24c9f80e1f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1685e0d9fa40000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-01-17 23:03:11</sys_updated_on>
+<table>sn_customerservice_case</table>
+<target_name>Case State low</target_name>
+<type>UI Style</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</application>
+<category>customer</category>
+<comments/>
+<name>sys_sg_button_instance_52259a79688b23007f440b24c9f80eb7</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="Assign to me">c2625a39688b23007f440b24c9f80e43</button><description/><field_name/><label>Assign to me</label><location>trailing_swipe</location><name>Assign to me</name><order>2</order><parent>d7f80275688b23007f440b24c9f80e77</parent><parent_table>sys_sg_master_item</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-01-17 19:05:34</sys_created_on><sys_id>52259a79688b23007f440b24c9f80eb7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Assign to me</sys_name><sys_package display_value="SKO19 mobile app" source="x_snc_sko19_mobile">6c21ffe208b223007f44591d7bc9c4ec</sys_package><sys_policy/><sys_scope display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</sys_scope><sys_update_name>sys_sg_button_instance_52259a79688b23007f440b24c9f80eb7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-01-17 19:05:34</sys_updated_on><table/></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=52259a79688b23007f440b24c9f80eb7"/></record_update>]]></payload>
+<payload_hash>-824729482</payload_hash>
+<remote_update_set display_value="SKO19 mobile app">fe8b0b7968cb23007f440b24c9f80edd</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-01-17 23:03:11</sys_created_on>
+<sys_id>728b4f7968cb23007f440b24c9f80e1b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1685e0da07d0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-01-17 23:03:11</sys_updated_on>
+<table/>
+<target_name>Assign to me</target_name>
+<type>Function instance</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</application>
+<category>customer</category>
+<comments/>
+<name>sys_sg_screen_field_625d42f5688b23007f440b24c9f80e4a</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field"><sys_sg_screen_field action="INSERT_OR_UPDATE"><data_item_field_name>state</data_item_field_name><hidden>false</hidden><order>40</order><screen display_value="Details">27f88e35688b23007f440b24c9f80e11</screen><screen_data_item_table>sn_customerservice_case</screen_data_item_table><sys_class_name>sys_sg_screen_field</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-01-17 18:31:28</sys_created_on><sys_id>625d42f5688b23007f440b24c9f80e4a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>state</sys_name><sys_package display_value="SKO19 mobile app" source="x_snc_sko19_mobile">6c21ffe208b223007f44591d7bc9c4ec</sys_package><sys_policy/><sys_scope display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</sys_scope><sys_update_name>sys_sg_screen_field_625d42f5688b23007f440b24c9f80e4a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-01-17 18:31:28</sys_updated_on><type>auto</type></sys_sg_screen_field></record_update>]]></payload>
+<payload_hash>-1925981117</payload_hash>
+<remote_update_set display_value="SKO19 mobile app">fe8b0b7968cb23007f440b24c9f80edd</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-01-17 23:03:11</sys_created_on>
+<sys_id>728b4f7968cb23007f440b24c9f80e1e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1685e0d9fed0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-01-17 23:03:11</sys_updated_on>
+<table/>
+<target_name>state</target_name>
+<type>Screen fields</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</application>
+<category>customer</category>
+<comments/>
+<name>sys_sg_button_c2625a39688b23007f440b24c9f80e43</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button"><sys_sg_button action="INSERT_OR_UPDATE"><allow_images_upload>false</allow_images_upload><auto_redirection>false</auto_redirection><cancel_label/><condition table="sn_customerservice_case">assigned_toISEMPTY^EQ<item endquery="false" field="assigned_to" goto="false" newquery="false" operator="ISEMPTY" or="false" value=""/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></condition><condition_script/><condition_type>declarative</condition_type><confirm_label/><confirmation_message/><context>record</context><description/><destination_screen/><external_browser>false</external_browser><failure_message/><field_name/><hide_buttons/><hide_fields/><jump_to_screen>false</jump_to_screen><link_label/><link_url/><mail_address/><mail_content/><mail_subject/><name>Assign to me</name><offline>true</offline><offline_template_field>assigned_to={{assigned_to}}^EQ</offline_template_field><offline_template_field_table>sn_customerservice_case</offline_template_field_table><phone_number/><phone_type>cellular</phone_type><relative_url>true</relative_url><roles/><select_current_record>false</select_current_record><show_buttons/><show_confirmation>false</show_confirmation><show_fields/><show_signature>false</show_signature><sms/><success_message/><sys_class_name>sys_sg_button</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-01-17 19:00:34</sys_created_on><sys_id>c2625a39688b23007f440b24c9f80e43</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Assign to me</sys_name><sys_package display_value="SKO19 mobile app" source="x_snc_sko19_mobile">6c21ffe208b223007f44591d7bc9c4ec</sys_package><sys_policy/><sys_scope display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</sys_scope><sys_update_name>sys_sg_button_c2625a39688b23007f440b24c9f80e43</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-01-17 19:01:16</sys_updated_on><table>sn_customerservice_case</table><take_value_from_field>false</take_value_from_field><type>write_back</type><write_back_action_item display_value="Case Assign to me">d8e25e39688b23007f440b24c9f80eec</write_back_action_item><zombified_screens/></sys_sg_button><sys_translated_text action="delete_multiple" query="documentkey=c2625a39688b23007f440b24c9f80e43"/></record_update>]]></payload>
+<payload_hash>1132527445</payload_hash>
+<remote_update_set display_value="SKO19 mobile app">fe8b0b7968cb23007f440b24c9f80edd</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-01-17 23:03:11</sys_created_on>
+<sys_id>768b4f7968cb23007f440b24c9f80e1a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1685e0da05f0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-01-17 23:03:11</sys_updated_on>
+<table>sn_customerservice_case</table>
+<target_name>Assign to me</target_name>
+<type>Function</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</application>
+<category>customer</category>
+<comments/>
+<name>sys_sg_item_view_d3f80275688b23007f440b24c9f80e74</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view"><sys_sg_item_view action="INSERT_OR_UPDATE"><data_item display_value="New Cases">58570a35688b23007f440b24c9f80ebf</data_item><dependency_fields>priority,number,short_description,opened_by.photo,opened_by</dependency_fields><item_view_json>{"Type":"ViewGroup","Margin":{"Top":17,"Bottom":15},"Orientation":"Vertical","Alignment":"Stretch","Distribution":"Auto","Children":[{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Equal","Children":[{"Type":"ViewGroup","Margin":{"Right":12},"Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Children":[{"Type":"Text","CornerRadius":2,"BackgroundColor":"#f1f1f1","Height":21,"Width":100,"Margin":{},"studio_template_field_id":"E1","Text":"","CellId":"priority","TextColor":"#293e40","TextAlignment":"Center","MaxLines":1,"Font":{"Weight":"semibold","Size":13}}]},{"Type":"ViewGroup","Margin":{},"Orientation":"Vertical","Alignment":"Right","Distribution":"Auto","Children":[{"Type":"Text","Margin":{},"studio_template_field_id":"E2","Text":"","CellId":"number","TextColor":"#7d8a8c","TextAlignment":"Right","MaxLines":1,"Font":{"Weight":"regular","Size":13}}]}]},{"Type":"Text","Margin":{"Top":9},"TextColor":"#293e40","TextAlignment":"Left","MaxLines":2,"Font":{"Weight":"regular","Size":18},"studio_template_field_id":"E3","Text":"","CellId":"short_description"},{"Type":"ViewGroup","Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Children":[{"Type":"ViewGroup","Margin":{"Top":9},"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Text","Margin":{"Right":8},"studio_template_is_label":true,"studio_template_field_id":"E4","Text":"${opened_by}","TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13}},{"Type":"Image","CornerRadius":11,"Height":22,"Width":22,"Margin":{"Right":6},"studio_template_field_id":"E5","CellId":"opened_by.photo","Scaling":"Fill"},{"Type":"Text","Margin":{},"studio_template_field_id":"E4","Text":"","CellId":"opened_by","TextColor":"#293e40","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13}}]},{"Type":"ViewGroup","Margin":{"Top":7},"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Text","studio_template_is_label":true,"studio_template_field_id":"E6","TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Margin":{"Right":8}},{"Type":"Text","Margin":{},"studio_template_field_id":"E6","Text":"","TextColor":"#293e40","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13}}]}]}],"studio_card_id":"7a51ef8123012300a8ed7f4fc7bf6539"}</item_view_json><name>New Claims detail item view</name><short_description/><sys_class_name>sys_sg_item_view</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-01-17 18:12:24</sys_created_on><sys_id>d3f80275688b23007f440b24c9f80e74</sys_id><sys_mod_count>2</sys_mod_count><sys_name>New Claims detail item view</sys_name><sys_package display_value="SKO19 mobile app" source="x_snc_sko19_mobile">6c21ffe208b223007f44591d7bc9c4ec</sys_package><sys_policy/><sys_scope display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</sys_scope><sys_update_name>sys_sg_item_view_d3f80275688b23007f440b24c9f80e74</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-01-17 18:32:24</sys_updated_on><ui_styles>6ccb0ab5688b23007f440b24c9f80e0a,f49b86b5688b23007f440b24c9f80e18,f4ca8e75688b23007f440b24c9f80e7f,66abc6b5688b23007f440b24c9f80eee</ui_styles></sys_sg_item_view><sys_translated_text action="delete_multiple" query="documentkey=d3f80275688b23007f440b24c9f80e74"/></record_update>]]></payload>
+<payload_hash>1490577362</payload_hash>
+<remote_update_set display_value="SKO19 mobile app">fe8b0b7968cb23007f440b24c9f80edd</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-01-17 23:03:11</sys_created_on>
+<sys_id>768b4f7968cb23007f440b24c9f80e1d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1685e0d9fff0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-01-17 23:03:11</sys_updated_on>
+<table/>
+<target_name>New Claims detail item view</target_name>
+<type>Item view</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</application>
+<category>customer</category>
+<comments/>
+<name>sys_sg_write_back_action_item_cee692b9688b23007f440b24c9f80e11</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item"><sys_sg_write_back_action_item action="INSERT_OR_UPDATE"><description/><execution_script/><name>Edit case</name><query_condition/><sys_class_name>sys_sg_write_back_action_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-01-17 19:14:06</sys_created_on><sys_id>cee692b9688b23007f440b24c9f80e11</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Edit case</sys_name><sys_package display_value="SKO19 mobile app" source="x_snc_sko19_mobile">6c21ffe208b223007f44591d7bc9c4ec</sys_package><sys_policy/><sys_scope display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</sys_scope><sys_update_name>sys_sg_write_back_action_item_cee692b9688b23007f440b24c9f80e11</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-01-17 19:15:43</sys_updated_on><table>sn_customerservice_case</table><template>state={{state}}^description={{description}}^EQ</template><type>update</type><use_current_record_as_condition>true</use_current_record_as_condition></sys_sg_write_back_action_item><sys_translated_text action="delete_multiple" query="documentkey=cee692b9688b23007f440b24c9f80e11"/></record_update>]]></payload>
+<payload_hash>842025358</payload_hash>
+<remote_update_set display_value="SKO19 mobile app">fe8b0b7968cb23007f440b24c9f80edd</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-01-17 23:03:11</sys_created_on>
+<sys_id>768b4f7968cb23007f440b24c9f80e20</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1685e0da0940000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-01-17 23:03:11</sys_updated_on>
+<table>sn_customerservice_case</table>
+<target_name>Edit case</target_name>
+<type>Action item</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</application>
+<category>customer</category>
+<comments/>
+<name>sys_sg_activity_stream_screen_e7f80275688b23007f440b24c9f80e83</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_activity_stream_screen"><sys_sg_activity_stream_screen action="INSERT_OR_UPDATE"><add_additional_comment_button>true</add_additional_comment_button><add_attachment_button>true</add_attachment_button><add_work_note_button>true</add_work_note_button><application_roles/><available_offline>true</available_offline><data_item display_value="New Cases">58570a35688b23007f440b24c9f80ebf</data_item><description/><fetch_type>background</fetch_type><hidden>false</hidden><icon/><name>Activity Stream</name><order>20</order><parent>d7f80275688b23007f440b24c9f80e77</parent><parent_table>sys_sg_master_item</parent_table><roles_override/><sys_class_name>sys_sg_activity_stream_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-01-17 18:12:25</sys_created_on><sys_id>e7f80275688b23007f440b24c9f80e83</sys_id><sys_mod_count>10</sys_mod_count><sys_name>Activity Stream</sys_name><sys_package display_value="SKO19 mobile app" source="x_snc_sko19_mobile">6c21ffe208b223007f44591d7bc9c4ec</sys_package><sys_policy/><sys_scope display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</sys_scope><sys_update_name>sys_sg_activity_stream_screen_e7f80275688b23007f440b24c9f80e83</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-01-17 19:31:39</sys_updated_on></sys_sg_activity_stream_screen><sys_translated_text action="delete_multiple" query="documentkey=e7f80275688b23007f440b24c9f80e83"/></record_update>]]></payload>
+<payload_hash>-1389019294</payload_hash>
+<remote_update_set display_value="SKO19 mobile app">fe8b0b7968cb23007f440b24c9f80edd</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-01-17 23:03:11</sys_created_on>
+<sys_id>7a8b4f7968cb23007f440b24c9f80e19</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1685e0da1240000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-01-17 23:03:11</sys_updated_on>
+<table/>
+<target_name>Activity Stream</target_name>
+<type>Activity Stream Screen</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</application>
+<category>customer</category>
+<comments/>
+<name>sys_sg_icon_9bf80275688b23007f440b24c9f80e71</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon"><sys_sg_icon action="INSERT_OR_UPDATE"><icon>{"Shape":"Circle","FontName":"Font Awesome 5 Free","Value":"f022","FontColor":"#54AC98","BackgroundColor":"#54AC98","Name":"list-alt"}</icon><name>list-alt</name><sys_class_name>sys_sg_icon</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-01-17 18:12:24</sys_created_on><sys_id>9bf80275688b23007f440b24c9f80e71</sys_id><sys_mod_count>0</sys_mod_count><sys_name>list-alt</sys_name><sys_package display_value="SKO19 mobile app" source="x_snc_sko19_mobile">6c21ffe208b223007f44591d7bc9c4ec</sys_package><sys_policy/><sys_scope display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</sys_scope><sys_update_name>sys_sg_icon_9bf80275688b23007f440b24c9f80e71</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-01-17 18:12:24</sys_updated_on></sys_sg_icon></record_update>]]></payload>
+<payload_hash>-966428188</payload_hash>
+<remote_update_set display_value="SKO19 mobile app">fe8b0b7968cb23007f440b24c9f80edd</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-01-17 23:03:11</sys_created_on>
+<sys_id>7a8b4f7968cb23007f440b24c9f80e1c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1685e0d9f730000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-01-17 23:03:11</sys_updated_on>
+<table/>
+<target_name>list-alt</target_name>
+<type>Icon</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</application>
+<category>customer</category>
+<comments/>
+<name>sys_sg_ui_style_66abc6b5688b23007f440b24c9f80eee</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_style"><sys_sg_ui_style action="INSERT_OR_UPDATE"><active>true</active><condition table="sn_customerservice_case">priority=3^EQ<item endquery="false" field="priority" goto="false" newquery="false" operator="=" or="false" value="3"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></condition><field>priority</field><name>Case State Moderate</name><style>{"background_color":"#8dc3e7","font_color":"#ffffff"}</style><sys_class_name>sys_sg_ui_style</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-01-17 18:24:05</sys_created_on><sys_id>66abc6b5688b23007f440b24c9f80eee</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Case State Moderate</sys_name><sys_package display_value="SKO19 mobile app" source="x_snc_sko19_mobile">6c21ffe208b223007f44591d7bc9c4ec</sys_package><sys_policy/><sys_scope display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</sys_scope><sys_update_name>sys_sg_ui_style_66abc6b5688b23007f440b24c9f80eee</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-01-17 18:24:05</sys_updated_on><table>sn_customerservice_case</table></sys_sg_ui_style></record_update>]]></payload>
+<payload_hash>-1683798735</payload_hash>
+<remote_update_set display_value="SKO19 mobile app">fe8b0b7968cb23007f440b24c9f80edd</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-01-17 23:03:11</sys_created_on>
+<sys_id>7a8b4f7968cb23007f440b24c9f80e1f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1685e0d9f9b0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-01-17 23:03:11</sys_updated_on>
+<table>sn_customerservice_case</table>
+<target_name>Case State Moderate</target_name>
+<type>UI Style</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</application>
+<category>customer</category>
+<comments/>
+<name>sys_push_notif_app_install_54c98275688b23007f440b24c9f80e6e</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_app_install"><sys_push_notif_app_install action="INSERT_OR_UPDATE"><active>true</active><last_registered_on>2019-01-17 18:15:45</last_registered_on><sys_class_name>sys_push_notif_app_install</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-01-17 18:15:45</sys_created_on><sys_id>54c98275688b23007f440b24c9f80e6e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>CC0CB5D2DFFBE5C5EFF9831DBF96C439264145CCD10E210EB17291B21660183E</sys_name><sys_package display_value="SKO19 mobile app" source="x_snc_sko19_mobile">6c21ffe208b223007f44591d7bc9c4ec</sys_package><sys_policy/><sys_push_application_id display_value="ServiceNow Mobile Application Internal">b7e9f41477382300258da2e2c8106152</sys_push_application_id><sys_push_platform_id display_value="Apple">20e71f30ff0002009738ffffffffff6b</sys_push_platform_id><sys_scope display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</sys_scope><sys_update_name>sys_push_notif_app_install_54c98275688b23007f440b24c9f80e6e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-01-17 18:15:45</sys_updated_on><sys_user_id display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</sys_user_id><token>CC0CB5D2DFFBE5C5EFF9831DBF96C439264145CCD10E210EB17291B21660183E</token></sys_push_notif_app_install></record_update>]]></payload>
+<payload_hash>1254919517</payload_hash>
+<remote_update_set display_value="SKO19 mobile app">fe8b0b7968cb23007f440b24c9f80edd</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-01-17 23:03:11</sys_created_on>
+<sys_id>7e8b4f7968cb23007f440b24c9f80e18</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1685e0d9f820000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-01-17 23:03:11</sys_updated_on>
+<table/>
+<target_name>CC0CB5D2DFFBE5C5EFF9831DBF96C439264145CCD10E210EB17291B21660183E</target_name>
+<type>Push Notification Installation</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</application>
+<category>customer</category>
+<comments/>
+<name>sys_sg_data_item_58570a35688b23007f440b24c9f80ebf</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item"><sys_sg_data_item action="INSERT_OR_UPDATE"><condition_type>declarative</condition_type><description>New cases </description><group_by/><name>New Cases</name><query_condition table="sn_customerservice_case">state=1^ORassigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe<item endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="1"/><item endquery="false" field="assigned_to" goto="false" newquery="false" operator="DYNAMIC" or="true" value="90d1921e5f510100a9ad2572f2b477fe"/></query_condition><query_condition_script/><sys_class_name>sys_sg_data_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-01-17 18:05:06</sys_created_on><sys_id>58570a35688b23007f440b24c9f80ebf</sys_id><sys_mod_count>0</sys_mod_count><sys_name>New Cases</sys_name><sys_package display_value="SKO19 mobile app" source="x_snc_sko19_mobile">6c21ffe208b223007f44591d7bc9c4ec</sys_package><sys_policy/><sys_scope display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</sys_scope><sys_update_name>sys_sg_data_item_58570a35688b23007f440b24c9f80ebf</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-01-17 18:05:06</sys_updated_on><table>sn_customerservice_case</table></sys_sg_data_item><sys_translated_text action="delete_multiple" query="documentkey=58570a35688b23007f440b24c9f80ebf"/></record_update>]]></payload>
+<payload_hash>-1393095139</payload_hash>
+<remote_update_set display_value="SKO19 mobile app">fe8b0b7968cb23007f440b24c9f80edd</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-01-17 23:03:11</sys_created_on>
+<sys_id>7e8b4f7968cb23007f440b24c9f80e1b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1685e0d9f530000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-01-17 23:03:11</sys_updated_on>
+<table>sn_customerservice_case</table>
+<target_name>New Cases</target_name>
+<type>Data Item</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</application>
+<category>customer</category>
+<comments/>
+<name>sys_sg_screen_field_fa5d4eb5688b23007f440b24c9f80ef7</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field"><sys_sg_screen_field action="INSERT_OR_UPDATE"><data_item_field_name>asset</data_item_field_name><hidden>false</hidden><order>50</order><screen display_value="Details">27f88e35688b23007f440b24c9f80e11</screen><screen_data_item_table>sn_customerservice_case</screen_data_item_table><sys_class_name>sys_sg_screen_field</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-01-17 18:31:28</sys_created_on><sys_id>fa5d4eb5688b23007f440b24c9f80ef7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>asset</sys_name><sys_package display_value="SKO19 mobile app" source="x_snc_sko19_mobile">6c21ffe208b223007f44591d7bc9c4ec</sys_package><sys_policy/><sys_scope display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</sys_scope><sys_update_name>sys_sg_screen_field_fa5d4eb5688b23007f440b24c9f80ef7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-01-17 18:31:28</sys_updated_on><type>auto</type></sys_sg_screen_field></record_update>]]></payload>
+<payload_hash>-15585530</payload_hash>
+<remote_update_set display_value="SKO19 mobile app">fe8b0b7968cb23007f440b24c9f80edd</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-01-17 23:03:11</sys_created_on>
+<sys_id>7e8b4f7968cb23007f440b24c9f80e1e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1685e0d9ff40000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-01-17 23:03:11</sys_updated_on>
+<table/>
+<target_name>asset</target_name>
+<type>Screen fields</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</application>
+<category>customer</category>
+<comments/>
+<name>sys_sg_button_afa796b9688b23007f440b24c9f80e4d</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button"><sys_sg_button action="INSERT_OR_UPDATE"><allow_images_upload>false</allow_images_upload><auto_redirection>false</auto_redirection><cancel_label/><condition/><condition_script/><condition_type>declarative</condition_type><confirm_label/><confirmation_message/><context>record</context><description/><destination_screen/><external_browser>false</external_browser><failure_message/><field_name/><hide_buttons/><hide_fields/><jump_to_screen>false</jump_to_screen><link_label/><link_url/><mail_address/><mail_content/><mail_subject/><name>Edit case</name><offline>true</offline><offline_template_field>state={{state}}^description={{description}}^EQ</offline_template_field><offline_template_field_table>sn_customerservice_case</offline_template_field_table><phone_number/><phone_type>cellular</phone_type><relative_url>true</relative_url><roles/><select_current_record>false</select_current_record><show_buttons/><show_confirmation>false</show_confirmation><show_fields/><show_signature>false</show_signature><sms/><success_message/><sys_class_name>sys_sg_button</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-01-17 19:18:04</sys_created_on><sys_id>afa796b9688b23007f440b24c9f80e4d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Edit case</sys_name><sys_package display_value="SKO19 mobile app" source="x_snc_sko19_mobile">6c21ffe208b223007f44591d7bc9c4ec</sys_package><sys_policy/><sys_scope display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</sys_scope><sys_update_name>sys_sg_button_afa796b9688b23007f440b24c9f80e4d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-01-17 19:18:04</sys_updated_on><table/><take_value_from_field>false</take_value_from_field><type>write_back</type><write_back_action_item display_value="Edit case">cee692b9688b23007f440b24c9f80e11</write_back_action_item><zombified_screens/></sys_sg_button><sys_translated_text action="delete_multiple" query="documentkey=afa796b9688b23007f440b24c9f80e4d"/></record_update>]]></payload>
+<payload_hash>509798372</payload_hash>
+<remote_update_set display_value="SKO19 mobile app">fe8b0b7968cb23007f440b24c9f80edd</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-01-17 23:03:11</sys_created_on>
+<sys_id>b28b4f7968cb23007f440b24c9f80e1a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1685e0da09e0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-01-17 23:03:11</sys_updated_on>
+<table/>
+<target_name>Edit case</target_name>
+<type>Function</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</application>
+<category>customer</category>
+<comments/>
+<name>sys_sg_item_parameter_f4431279688b23007f440b24c9f80ea0</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter"><sys_sg_item_parameter action="INSERT_OR_UPDATE"><default_value/><name>assigned_to</name><parent>d8e25e39688b23007f440b24c9f80eec</parent><parent_table>sys_sg_write_back_action_item</parent_table><sys_class_name>sys_sg_item_parameter</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-01-17 18:57:25</sys_created_on><sys_id>f4431279688b23007f440b24c9f80ea0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>assigned_to</sys_name><sys_package display_value="SKO19 mobile app" source="x_snc_sko19_mobile">6c21ffe208b223007f44591d7bc9c4ec</sys_package><sys_policy/><sys_scope display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</sys_scope><sys_update_name>sys_sg_item_parameter_f4431279688b23007f440b24c9f80ea0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-01-17 18:57:25</sys_updated_on><type>string</type></sys_sg_item_parameter></record_update>]]></payload>
+<payload_hash>715404211</payload_hash>
+<remote_update_set display_value="SKO19 mobile app">fe8b0b7968cb23007f440b24c9f80edd</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-01-17 23:03:11</sys_created_on>
+<sys_id>b28b4f7968cb23007f440b24c9f80e1d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1685e0da0440000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-01-17 23:03:11</sys_updated_on>
+<table/>
+<target_name>assigned_to</target_name>
+<type>Item Parameter</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</application>
+<category>customer</category>
+<comments/>
+<name>sys_sg_ui_style_f4ca8e75688b23007f440b24c9f80e7f</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_style"><sys_sg_ui_style action="INSERT_OR_UPDATE"><active>true</active><condition table="sn_customerservice_case">priority=1^EQ<item endquery="false" field="priority" goto="false" newquery="false" operator="=" or="false" value="1"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></condition><field>priority</field><name>Case State Critical</name><style>{"background_color":"#C83C36","font_color":"#ffffff"}</style><sys_class_name>sys_sg_ui_style</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-01-17 18:23:14</sys_created_on><sys_id>f4ca8e75688b23007f440b24c9f80e7f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Case State Critical</sys_name><sys_package display_value="SKO19 mobile app" source="x_snc_sko19_mobile">6c21ffe208b223007f44591d7bc9c4ec</sys_package><sys_policy/><sys_scope display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</sys_scope><sys_update_name>sys_sg_ui_style_f4ca8e75688b23007f440b24c9f80e7f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-01-17 18:23:14</sys_updated_on><table>sn_customerservice_case</table></sys_sg_ui_style></record_update>]]></payload>
+<payload_hash>1542736259</payload_hash>
+<remote_update_set display_value="SKO19 mobile app">fe8b0b7968cb23007f440b24c9f80edd</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-01-17 23:03:11</sys_created_on>
+<sys_id>b28b4f7968cb23007f440b24c9f80e20</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1685e0d9f8d0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-01-17 23:03:11</sys_updated_on>
+<table>sn_customerservice_case</table>
+<target_name>Case State Critical</target_name>
+<type>UI Style</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</application>
+<category>customer</category>
+<comments/>
+<name>sys_sg_action_param_map_df49deb9688b23007f440b24c9f80e6a</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map"><sys_sg_action_param_map action="INSERT_OR_UPDATE"><button display_value="Edit case">afa796b9688b23007f440b24c9f80e4d</button><item_parameter display_value="description">7b4756b9688b23007f440b24c9f80e17</item_parameter><sys_class_name>sys_sg_action_param_map</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-01-17 19:23:51</sys_created_on><sys_id>df49deb9688b23007f440b24c9f80e6a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>7b4756b9688b23007f440b24c9f80e17</sys_name><sys_package display_value="SKO19 mobile app" source="x_snc_sko19_mobile">6c21ffe208b223007f44591d7bc9c4ec</sys_package><sys_policy/><sys_scope display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</sys_scope><sys_update_name>sys_sg_action_param_map_df49deb9688b23007f440b24c9f80e6a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-01-17 19:23:51</sys_updated_on><ui_parameter display_value="Description">30185ab9688b23007f440b24c9f80e25</ui_parameter></sys_sg_action_param_map></record_update>]]></payload>
+<payload_hash>1348153678</payload_hash>
+<remote_update_set display_value="SKO19 mobile app">fe8b0b7968cb23007f440b24c9f80edd</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-01-17 23:03:11</sys_created_on>
+<sys_id>b68b4f7968cb23007f440b24c9f80e19</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1685e0da0c60000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-01-17 23:03:11</sys_updated_on>
+<table/>
+<target_name>7b4756b9688b23007f440b24c9f80e17</target_name>
+<type>Action parameters mapping</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</application>
+<category>customer</category>
+<comments/>
+<name>sys_sg_icon_2bf4c6b1688b23007f440b24c9f80e16</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon"><sys_sg_icon action="INSERT_OR_UPDATE"><icon>{"Shape":"Circle","FontName":"Font Awesome 5 Free","Value":"f044","FontColor":"#E65651","BackgroundColor":"#E65651","Name":"edit"}</icon><name>edit</name><sys_class_name>sys_sg_icon</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-01-17 17:54:56</sys_created_on><sys_id>2bf4c6b1688b23007f440b24c9f80e16</sys_id><sys_mod_count>0</sys_mod_count><sys_name>edit</sys_name><sys_package display_value="SKO19 mobile app" source="x_snc_sko19_mobile">6c21ffe208b223007f44591d7bc9c4ec</sys_package><sys_policy/><sys_scope display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</sys_scope><sys_update_name>sys_sg_icon_2bf4c6b1688b23007f440b24c9f80e16</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-01-17 17:54:56</sys_updated_on></sys_sg_icon></record_update>]]></payload>
+<payload_hash>549545616</payload_hash>
+<remote_update_set display_value="SKO19 mobile app">fe8b0b7968cb23007f440b24c9f80edd</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-01-17 23:03:11</sys_created_on>
+<sys_id>b68b4f7968cb23007f440b24c9f80e1c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1685e0d9f340000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-01-17 23:03:11</sys_updated_on>
+<table/>
+<target_name>edit</target_name>
+<type>Icon</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</application>
+<category>customer</category>
+<comments/>
+<name>sys_sg_ui_parameter_ae649679688b23007f440b24c9f80ea1</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter"><sys_sg_ui_parameter action="INSERT_OR_UPDATE"><button display_value="Assign to me">c2625a39688b23007f440b24c9f80e43</button><button_parent_table/><carried>false</carried><constant/><default_value/><default_value_type>none</default_value_type><field_name/><input_source>auto</input_source><input_style>inline</input_style><input_type>user</input_type><mandatory>false</mandatory><multi_select>false</multi_select><name>Assign to me</name><order/><parameter_type>button</parameter_type><placeholder/><screen/><search_type>starts_with</search_type><source_field/><sys_class_name>sys_sg_ui_parameter</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-01-17 19:03:22</sys_created_on><sys_id>ae649679688b23007f440b24c9f80ea1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Assign to me</sys_name><sys_package display_value="SKO19 mobile app" source="x_snc_sko19_mobile">6c21ffe208b223007f44591d7bc9c4ec</sys_package><sys_policy/><sys_scope display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</sys_scope><sys_update_name>sys_sg_ui_parameter_ae649679688b23007f440b24c9f80ea1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-01-17 19:03:22</sys_updated_on><table_name/></sys_sg_ui_parameter><sys_translated_text action="delete_multiple" query="documentkey=ae649679688b23007f440b24c9f80ea1"/></record_update>]]></payload>
+<payload_hash>-1586996631</payload_hash>
+<remote_update_set display_value="SKO19 mobile app">fe8b0b7968cb23007f440b24c9f80edd</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-01-17 23:03:11</sys_created_on>
+<sys_id>b68b4f7968cb23007f440b24c9f80e1f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1685e0da0680000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-01-17 23:03:11</sys_updated_on>
+<table/>
+<target_name>Assign to me</target_name>
+<type>UI parameter</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</application>
+<category>customer</category>
+<comments/>
+<name>sys_sg_button_instance_eac992f9688b23007f440b24c9f80e4a</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="Assign to me">c2625a39688b23007f440b24c9f80e43</button><description/><field_name/><label>Assign to me</label><location>top</location><name>Assign to me</name><order>2</order><parent>27f88e35688b23007f440b24c9f80e11</parent><parent_table>sys_sg_details_screen</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-01-17 19:25:48</sys_created_on><sys_id>eac992f9688b23007f440b24c9f80e4a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Assign to me</sys_name><sys_package display_value="SKO19 mobile app" source="x_snc_sko19_mobile">6c21ffe208b223007f44591d7bc9c4ec</sys_package><sys_policy/><sys_scope display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</sys_scope><sys_update_name>sys_sg_button_instance_eac992f9688b23007f440b24c9f80e4a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-01-17 19:25:48</sys_updated_on><table/></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=eac992f9688b23007f440b24c9f80e4a"/></record_update>]]></payload>
+<payload_hash>165035038</payload_hash>
+<remote_update_set display_value="SKO19 mobile app">fe8b0b7968cb23007f440b24c9f80edd</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-01-17 23:03:11</sys_created_on>
+<sys_id>ba8b4f7968cb23007f440b24c9f80e1b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1685e0da0e10000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-01-17 23:03:11</sys_updated_on>
+<table/>
+<target_name>Assign to me</target_name>
+<type>Function instance</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</application>
+<category>customer</category>
+<comments/>
+<name>sys_sg_screen_field_ae5d42f5688b23007f440b24c9f80e35</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field"><sys_sg_screen_field action="INSERT_OR_UPDATE"><data_item_field_name>opened_by.mobile_phone</data_item_field_name><hidden>false</hidden><order>20</order><screen display_value="Details">27f88e35688b23007f440b24c9f80e11</screen><screen_data_item_table>sn_customerservice_case</screen_data_item_table><sys_class_name>sys_sg_screen_field</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-01-17 18:31:28</sys_created_on><sys_id>ae5d42f5688b23007f440b24c9f80e35</sys_id><sys_mod_count>0</sys_mod_count><sys_name>opened_by.mobile_phone</sys_name><sys_package display_value="SKO19 mobile app" source="x_snc_sko19_mobile">6c21ffe208b223007f44591d7bc9c4ec</sys_package><sys_policy/><sys_scope display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</sys_scope><sys_update_name>sys_sg_screen_field_ae5d42f5688b23007f440b24c9f80e35</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-01-17 18:31:28</sys_updated_on><type>auto</type></sys_sg_screen_field></record_update>]]></payload>
+<payload_hash>653517797</payload_hash>
+<remote_update_set display_value="SKO19 mobile app">fe8b0b7968cb23007f440b24c9f80edd</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-01-17 23:03:11</sys_created_on>
+<sys_id>ba8b4f7968cb23007f440b24c9f80e1e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1685e0d9fcf0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-01-17 23:03:11</sys_updated_on>
+<table/>
+<target_name>opened_by.mobile_phone</target_name>
+<type>Screen fields</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</application>
+<category>customer</category>
+<comments/>
+<name>sys_sg_button_instance_3fc11639688b23007f440b24c9f80ee0</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="Call claim requestor">2f915239688b23007f440b24c9f80e27</button><description/><field_name>opened_by.mobile_phone</field_name><label>Opened by.Mobile phone_field</label><location>field</location><name>Opened by.Mobile phone_field</name><order>1</order><parent>27f88e35688b23007f440b24c9f80e11</parent><parent_table>sys_sg_details_screen</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-01-17 18:50:56</sys_created_on><sys_id>3fc11639688b23007f440b24c9f80ee0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Opened by.Mobile phone_field</sys_name><sys_package display_value="SKO19 mobile app" source="x_snc_sko19_mobile">6c21ffe208b223007f44591d7bc9c4ec</sys_package><sys_policy/><sys_scope display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</sys_scope><sys_update_name>sys_sg_button_instance_3fc11639688b23007f440b24c9f80ee0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-01-17 18:50:56</sys_updated_on><table>sn_customerservice_case</table></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=3fc11639688b23007f440b24c9f80ee0"/></record_update>]]></payload>
+<payload_hash>1295569491</payload_hash>
+<remote_update_set display_value="SKO19 mobile app">fe8b0b7968cb23007f440b24c9f80edd</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-01-17 23:03:11</sys_created_on>
+<sys_id>be8b4f7968cb23007f440b24c9f80e1a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1685e0da03c0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-01-17 23:03:11</sys_updated_on>
+<table>sn_customerservice_case</table>
+<target_name>Opened by.Mobile phone_field</target_name>
+<type>Function instance</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</application>
+<category>customer</category>
+<comments/>
+<name>sys_sg_master_item_d7f80275688b23007f440b24c9f80e77</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item"><sys_sg_master_item action="INSERT_OR_UPDATE"><condition/><condition_order/><item_view display_value="New Claims item view">dbf80275688b23007f440b24c9f80e8b</item_view><name>Master Item</name><screen display_value="New Claims">5bf80275688b23007f440b24c9f80e7f</screen><sys_class_name>sys_sg_master_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-01-17 18:12:24</sys_created_on><sys_id>d7f80275688b23007f440b24c9f80e77</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Master Item</sys_name><sys_package display_value="SKO19 mobile app" source="x_snc_sko19_mobile">6c21ffe208b223007f44591d7bc9c4ec</sys_package><sys_policy/><sys_scope display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</sys_scope><sys_update_name>sys_sg_master_item_d7f80275688b23007f440b24c9f80e77</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-01-17 18:12:24</sys_updated_on><table>sn_customerservice_case</table></sys_sg_master_item></record_update>]]></payload>
+<payload_hash>-787803676</payload_hash>
+<remote_update_set display_value="SKO19 mobile app">fe8b0b7968cb23007f440b24c9f80edd</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-01-17 23:03:11</sys_created_on>
+<sys_id>be8b4f7968cb23007f440b24c9f80e1d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1685e0d9f6d0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-01-17 23:03:11</sys_updated_on>
+<table>sn_customerservice_case</table>
+<target_name>Master Item</target_name>
+<type>Master Item</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</application>
+<category>customer</category>
+<comments/>
+<name>sys_sg_action_param_map_b0d41a79688b23007f440b24c9f80eb8</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map"><sys_sg_action_param_map action="INSERT_OR_UPDATE"><button display_value="Assign to me">c2625a39688b23007f440b24c9f80e43</button><item_parameter display_value="assigned_to">f4431279688b23007f440b24c9f80ea0</item_parameter><sys_class_name>sys_sg_action_param_map</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-01-17 19:04:24</sys_created_on><sys_id>b0d41a79688b23007f440b24c9f80eb8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>f4431279688b23007f440b24c9f80ea0</sys_name><sys_package display_value="SKO19 mobile app" source="x_snc_sko19_mobile">6c21ffe208b223007f44591d7bc9c4ec</sys_package><sys_policy/><sys_scope display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</sys_scope><sys_update_name>sys_sg_action_param_map_b0d41a79688b23007f440b24c9f80eb8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-01-17 19:04:24</sys_updated_on><ui_parameter display_value="Assign to me">ae649679688b23007f440b24c9f80ea1</ui_parameter></sys_sg_action_param_map></record_update>]]></payload>
+<payload_hash>-349100884</payload_hash>
+<remote_update_set display_value="SKO19 mobile app">fe8b0b7968cb23007f440b24c9f80edd</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-01-17 23:03:11</sys_created_on>
+<sys_id>f28b4f7968cb23007f440b24c9f80e19</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1685e0da0750000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-01-17 23:03:11</sys_updated_on>
+<table/>
+<target_name>f4431279688b23007f440b24c9f80ea0</target_name>
+<type>Action parameters mapping</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</application>
+<category>customer</category>
+<comments/>
+<name>sys_sg_folder_33f48ef1688b23007f440b24c9f80e25</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_folder"><sys_sg_folder action="INSERT_OR_UPDATE"><application display_value="Claims Management">b3f48ef1688b23007f440b24c9f80e24</application><name/><order>1</order><sys_class_name>sys_sg_folder</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-01-17 17:54:57</sys_created_on><sys_id>33f48ef1688b23007f440b24c9f80e25</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="SKO19 mobile app" source="x_snc_sko19_mobile">6c21ffe208b223007f44591d7bc9c4ec</sys_package><sys_policy/><sys_scope display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</sys_scope><sys_update_name>sys_sg_folder_33f48ef1688b23007f440b24c9f80e25</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-01-17 17:54:57</sys_updated_on></sys_sg_folder></record_update>]]></payload>
+<payload_hash>197612088</payload_hash>
+<remote_update_set display_value="SKO19 mobile app">fe8b0b7968cb23007f440b24c9f80edd</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-01-17 23:03:11</sys_created_on>
+<sys_id>f28b4f7968cb23007f440b24c9f80e1c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1685e0d9f440000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-01-17 23:03:11</sys_updated_on>
+<table/>
+<target_name/>
+<type>Folder</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</application>
+<category>customer</category>
+<comments/>
+<name>sys_sg_ui_parameter_32d85eb9688b23007f440b24c9f80e15</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter"><sys_sg_ui_parameter action="INSERT_OR_UPDATE"><button display_value="Edit case">afa796b9688b23007f440b24c9f80e4d</button><button_parent_table/><carried>false</carried><constant/><default_value/><default_value_type>none</default_value_type><field_name>state</field_name><input_source>user</input_source><input_style>inline</input_style><input_type>list</input_type><mandatory>false</mandatory><multi_select>false</multi_select><name>State</name><order/><parameter_type>button</parameter_type><placeholder/><screen/><search_type>starts_with</search_type><source_field/><sys_class_name>sys_sg_ui_parameter</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-01-17 19:23:00</sys_created_on><sys_id>32d85eb9688b23007f440b24c9f80e15</sys_id><sys_mod_count>0</sys_mod_count><sys_name>State</sys_name><sys_package display_value="SKO19 mobile app" source="x_snc_sko19_mobile">6c21ffe208b223007f44591d7bc9c4ec</sys_package><sys_policy/><sys_scope display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</sys_scope><sys_update_name>sys_sg_ui_parameter_32d85eb9688b23007f440b24c9f80e15</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-01-17 19:23:00</sys_updated_on><table_name>sn_customerservice_case</table_name></sys_sg_ui_parameter><sys_translated_text action="delete_multiple" query="documentkey=32d85eb9688b23007f440b24c9f80e15"/></record_update>]]></payload>
+<payload_hash>-866775510</payload_hash>
+<remote_update_set display_value="SKO19 mobile app">fe8b0b7968cb23007f440b24c9f80edd</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-01-17 23:03:11</sys_created_on>
+<sys_id>f28b4f7968cb23007f440b24c9f80e1f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1685e0da0be0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-01-17 23:03:11</sys_updated_on>
+<table/>
+<target_name>State</target_name>
+<type>UI parameter</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</application>
+<category>customer</category>
+<comments/>
+<name>sys_sg_button_instance_e4015239688b23007f440b24c9f80edf</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="Case location button">dad092f5688b23007f440b24c9f80eb9</button><description/><field_name/><label>Maps</label><location>leading_swipe</location><name>Maps</name><order>1</order><parent>d7f80275688b23007f440b24c9f80e77</parent><parent_table>sys_sg_master_item</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-01-17 18:47:27</sys_created_on><sys_id>e4015239688b23007f440b24c9f80edf</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Maps</sys_name><sys_package display_value="SKO19 mobile app" source="x_snc_sko19_mobile">6c21ffe208b223007f44591d7bc9c4ec</sys_package><sys_policy/><sys_scope display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</sys_scope><sys_update_name>sys_sg_button_instance_e4015239688b23007f440b24c9f80edf</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-01-17 18:47:27</sys_updated_on><table/></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=e4015239688b23007f440b24c9f80edf"/></record_update>]]></payload>
+<payload_hash>176445801</payload_hash>
+<remote_update_set display_value="SKO19 mobile app">fe8b0b7968cb23007f440b24c9f80edd</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-01-17 23:03:11</sys_created_on>
+<sys_id>f68b4f7968cb23007f440b24c9f80e1b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1685e0da01d0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-01-17 23:03:11</sys_updated_on>
+<table/>
+<target_name>Maps</target_name>
+<type>Function instance</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</application>
+<category>customer</category>
+<comments/>
+<name>sys_sg_screen_field_ae5d42f5688b23007f440b24c9f80e11</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field"><sys_sg_screen_field action="INSERT_OR_UPDATE"><data_item_field_name>description</data_item_field_name><hidden>false</hidden><order>30</order><screen display_value="Details">27f88e35688b23007f440b24c9f80e11</screen><screen_data_item_table>sn_customerservice_case</screen_data_item_table><sys_class_name>sys_sg_screen_field</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-01-17 18:31:28</sys_created_on><sys_id>ae5d42f5688b23007f440b24c9f80e11</sys_id><sys_mod_count>0</sys_mod_count><sys_name>description</sys_name><sys_package display_value="SKO19 mobile app" source="x_snc_sko19_mobile">6c21ffe208b223007f44591d7bc9c4ec</sys_package><sys_policy/><sys_scope display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</sys_scope><sys_update_name>sys_sg_screen_field_ae5d42f5688b23007f440b24c9f80e11</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-01-17 18:31:28</sys_updated_on><type>auto</type></sys_sg_screen_field></record_update>]]></payload>
+<payload_hash>1619564012</payload_hash>
+<remote_update_set display_value="SKO19 mobile app">fe8b0b7968cb23007f440b24c9f80edd</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-01-17 23:03:11</sys_created_on>
+<sys_id>f68b4f7968cb23007f440b24c9f80e1e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1685e0d9fe50000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-01-17 23:03:11</sys_updated_on>
+<table/>
+<target_name>description</target_name>
+<type>Screen fields</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</application>
+<category>customer</category>
+<comments/>
+<name>sys_sg_button_instance_17a952f9688b23007f440b24c9f80e61</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="Edit case">afa796b9688b23007f440b24c9f80e4d</button><description/><field_name/><label>Edit</label><location>top</location><name>Edit</name><order>1</order><parent>27f88e35688b23007f440b24c9f80e11</parent><parent_table>sys_sg_details_screen</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-01-17 19:25:18</sys_created_on><sys_id>17a952f9688b23007f440b24c9f80e61</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Edit</sys_name><sys_package display_value="SKO19 mobile app" source="x_snc_sko19_mobile">6c21ffe208b223007f44591d7bc9c4ec</sys_package><sys_policy/><sys_scope display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</sys_scope><sys_update_name>sys_sg_button_instance_17a952f9688b23007f440b24c9f80e61</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-01-17 19:25:18</sys_updated_on><table/></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=17a952f9688b23007f440b24c9f80e61"/></record_update>]]></payload>
+<payload_hash>-620762866</payload_hash>
+<remote_update_set display_value="SKO19 mobile app">fe8b0b7968cb23007f440b24c9f80edd</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-01-17 23:03:11</sys_created_on>
+<sys_id>fa8b4f7968cb23007f440b24c9f80e1a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1685e0da0da0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-01-17 23:03:11</sys_updated_on>
+<table/>
+<target_name>Edit</target_name>
+<type>Function instance</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</application>
+<category>customer</category>
+<comments/>
+<name>sys_sg_master_detail_screen_5bf80275688b23007f440b24c9f80e7f</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_detail_screen"><sys_sg_master_detail_screen action="INSERT_OR_UPDATE"><application_roles/><available_offline>true</available_offline><data_item display_value="New Cases">58570a35688b23007f440b24c9f80ebf</data_item><description>New claims app</description><fetch_type>not_required</fetch_type><hidden>false</hidden><icon display_value="list-alt">9bf80275688b23007f440b24c9f80e71</icon><name>New Claims</name><order>10</order><parent>33f48ef1688b23007f440b24c9f80e25</parent><parent_table>sys_sg_folder</parent_table><roles_override/><sys_class_name>sys_sg_master_detail_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-01-17 18:12:24</sys_created_on><sys_id>5bf80275688b23007f440b24c9f80e7f</sys_id><sys_mod_count>10</sys_mod_count><sys_name>New Claims</sys_name><sys_package display_value="SKO19 mobile app" source="x_snc_sko19_mobile">6c21ffe208b223007f44591d7bc9c4ec</sys_package><sys_policy/><sys_scope display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</sys_scope><sys_update_name>sys_sg_master_detail_screen_5bf80275688b23007f440b24c9f80e7f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-01-17 19:31:39</sys_updated_on></sys_sg_master_detail_screen><sys_translated_text action="delete_multiple" query="documentkey=5bf80275688b23007f440b24c9f80e7f"/></record_update>]]></payload>
+<payload_hash>-378392569</payload_hash>
+<remote_update_set display_value="SKO19 mobile app">fe8b0b7968cb23007f440b24c9f80edd</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-01-17 23:03:11</sys_created_on>
+<sys_id>fa8b4f7968cb23007f440b24c9f80e1d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1685e0da10a0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-01-17 23:03:11</sys_updated_on>
+<table/>
+<target_name>New Claims</target_name>
+<type>Master-detail screen</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</application>
+<category>customer</category>
+<comments/>
+<name>sys_sg_button_2f915239688b23007f440b24c9f80e27</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button"><sys_sg_button action="INSERT_OR_UPDATE"><allow_images_upload>false</allow_images_upload><auto_redirection>false</auto_redirection><cancel_label/><condition table="sn_customerservice_case">opened_byISNOTEMPTY<item endquery="false" field="opened_by" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/></condition><condition_script/><condition_type>declarative</condition_type><confirm_label/><confirmation_message/><context>record</context><description/><destination_screen/><external_browser>false</external_browser><failure_message/><field_name>opened_by.mobile_phone</field_name><hide_buttons/><hide_fields/><jump_to_screen>false</jump_to_screen><link_label/><link_url/><mail_address/><mail_content/><mail_subject/><name>Call claim requestor</name><offline>true</offline><offline_template_field/><offline_template_field_table/><phone_number/><phone_type>cellular</phone_type><relative_url>false</relative_url><roles/><select_current_record>false</select_current_record><show_buttons/><show_confirmation>false</show_confirmation><show_fields/><show_signature>false</show_signature><sms>Hi, this is Joe from xyz insurance, I am on my way to verify your claim. Thanks</sms><success_message/><sys_class_name>sys_sg_button</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-01-17 18:50:06</sys_created_on><sys_id>2f915239688b23007f440b24c9f80e27</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Call claim requestor</sys_name><sys_package display_value="SKO19 mobile app" source="x_snc_sko19_mobile">6c21ffe208b223007f44591d7bc9c4ec</sys_package><sys_policy/><sys_scope display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</sys_scope><sys_update_name>sys_sg_button_2f915239688b23007f440b24c9f80e27</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-01-17 18:50:06</sys_updated_on><table>sn_customerservice_case</table><take_value_from_field>true</take_value_from_field><type>phone</type><write_back_action_item/><zombified_screens/></sys_sg_button><sys_translated_text action="delete_multiple" query="documentkey=2f915239688b23007f440b24c9f80e27"/></record_update>]]></payload>
+<payload_hash>-1292236724</payload_hash>
+<remote_update_set display_value="SKO19 mobile app">fe8b0b7968cb23007f440b24c9f80edd</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-01-17 23:03:11</sys_created_on>
+<sys_id>fe8b4f7968cb23007f440b24c9f80e19</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1685e0da0290000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-01-17 23:03:11</sys_updated_on>
+<table>sn_customerservice_case</table>
+<target_name>Call claim requestor</target_name>
+<type>Function</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</application>
+<category>customer</category>
+<comments/>
+<name>sys_sg_item_parameter_af2716b9688b23007f440b24c9f80e12</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter"><sys_sg_item_parameter action="INSERT_OR_UPDATE"><default_value/><name>state</name><parent>cee692b9688b23007f440b24c9f80e11</parent><parent_table>sys_sg_write_back_action_item</parent_table><sys_class_name>sys_sg_item_parameter</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-01-17 19:14:29</sys_created_on><sys_id>af2716b9688b23007f440b24c9f80e12</sys_id><sys_mod_count>0</sys_mod_count><sys_name>state</sys_name><sys_package display_value="SKO19 mobile app" source="x_snc_sko19_mobile">6c21ffe208b223007f44591d7bc9c4ec</sys_package><sys_policy/><sys_scope display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</sys_scope><sys_update_name>sys_sg_item_parameter_af2716b9688b23007f440b24c9f80e12</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-01-17 19:14:29</sys_updated_on><type>string</type></sys_sg_item_parameter></record_update>]]></payload>
+<payload_hash>-16158843</payload_hash>
+<remote_update_set display_value="SKO19 mobile app">fe8b0b7968cb23007f440b24c9f80edd</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-01-17 23:03:11</sys_created_on>
+<sys_id>fe8b4f7968cb23007f440b24c9f80e1c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1685e0da0870000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-01-17 23:03:11</sys_updated_on>
+<table/>
+<target_name>state</target_name>
+<type>Item Parameter</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</application>
+<category>customer</category>
+<comments/>
+<name>sys_sg_ui_style_f49b86b5688b23007f440b24c9f80e18</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_style"><sys_sg_ui_style action="INSERT_OR_UPDATE"><active>true</active><condition table="sn_customerservice_case">priority=2^EQ<item endquery="false" field="priority" goto="false" newquery="false" operator="=" or="false" value="2"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></condition><field>priority</field><name>Case State High</name><style>{"background_color":"#FE9741","font_color":"#ffffff"}</style><sys_class_name>sys_sg_ui_style</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-01-17 18:23:42</sys_created_on><sys_id>f49b86b5688b23007f440b24c9f80e18</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Case State High</sys_name><sys_package display_value="SKO19 mobile app" source="x_snc_sko19_mobile">6c21ffe208b223007f44591d7bc9c4ec</sys_package><sys_policy/><sys_scope display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</sys_scope><sys_update_name>sys_sg_ui_style_f49b86b5688b23007f440b24c9f80e18</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-01-17 18:23:42</sys_updated_on><table>sn_customerservice_case</table></sys_sg_ui_style></record_update>]]></payload>
+<payload_hash>-747825189</payload_hash>
+<remote_update_set display_value="SKO19 mobile app">fe8b0b7968cb23007f440b24c9f80edd</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-01-17 23:03:11</sys_created_on>
+<sys_id>fe8b4f7968cb23007f440b24c9f80e1f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1685e0d9f930000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-01-17 23:03:11</sys_updated_on>
+<table>sn_customerservice_case</table>
+<target_name>Case State High</target_name>
+<type>UI Style</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>

@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "category": "Human Resources",
+  "common-name": "Pay Discrepancy",
+  "compatibility": [
+    "Jakarta",
+    "Kingston",
+    "London"
+  ],
+  "contributors": [
+    "Sush Chandrashekar"
+  ],
+  "keywords": [
+    "HR",
+    "VA",
+    "Virtual Agent"
+  ],
+  "name": "va-pay-discrepancy",
+  "publishing-goal": "Update set",
+  "solution-details": "A Virtual Agent conversation centered around an HR case; where vacation days are showing up wrong for employees, so they reach out to a Virtual Agent for assistance.",
+  "type": "Virtual Agent",
+  "version": "1.0.0"
+}
