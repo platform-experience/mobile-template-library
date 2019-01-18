@@ -1,23 +1,21 @@
 {
   "active": true,
-  "category": "Human Resources",
-  "common-name": "Pay Discrepancy",
+  "category": "CSM",
+  "common-name": "Claims Manager",
   "compatibility": [
-    "Jakarta",
-    "Kingston",
-    "London"
+    "Madrid"
   ],
   "contributors": [
     "Sush Chandrashekar"
   ],
   "keywords": [
-    "HR",
-    "VA",
-    "Virtual Agent"
+    "Mobile",
+    "SkyNow",
+    "SKO19"
   ],
-  "name": "va-pay-discrepancy",
+  "name": "mo-claims-management",
   "publishing-goal": "Update set",
-  "solution-details": "A Virtual Agent conversation centered around an HR case; where vacation days are showing up wrong for employees, so they reach out to a Virtual Agent for assistance.",
-  "type": "Virtual Agent",
+  "solution-details": "A Mobile Application to demonstrate Servicenow new mobile capability.",
+  "type": "Mobile App",
   "version": "1.0.0"
 }
