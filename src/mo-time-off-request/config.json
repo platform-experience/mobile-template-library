@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "category": "Platform",
+  "common-name": "Time-off request",
+  "compatibility": [
+    "Madrid"
+  ],
+  "contributors": [
+    "Sush Chandrashekar"
+  ],
+  "keywords": [
+    "Mobile",
+    "SkyNow",
+    "timeoff"
+  ],
+  "name": "mo-time-off-request",
+  "publishing-goal": "Update set",
+  "solution-details": "A Mobile Application to demonstrate time-off request.",
+  "type": "Mobile",
+  "version": "1.0.0"
+}
