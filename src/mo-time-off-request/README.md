@@ -18,7 +18,7 @@ A Mobile Application to demonstrate time-off request.
 
 ## Installation
 
-Download and install update set **[mo-claims-management.u-update-set.xml](https://github.com/platform-experience/mobile-template-library/blob/master/src/mo-claims-management/mo-time-off-request.u-update-set.xml)**
+Download and install update set **[mo-time-off-request.u-update-set.xml](https://github.com/platform-experience/mobile-template-library/blob/master/src/mo-time-off-request/mo-time-off-request.u-update-set.xml)**
 
 * SN Product Documentation - ['Load a customization from a single XML file'](https://docs.servicenow.com/bundle/kingston-application-development/page/build/system-update-sets/task/t_SaveAnUpdateSetAsAnXMLFile.html)
 
