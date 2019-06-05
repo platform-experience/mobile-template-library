@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "category": "General",
+  "common-name": "GRC Mobile App",
+  "compatibility": [
+    "Jakarta",
+    "Kingston",
+    "London",
+    "Madrid"
+  ],
+  "contributors": [
+    "brian"
+  ],
+  "keywords": [
+    "Mobile"
+  ],
+  "name": "mo-grc-mobile-app",
+  "publishing-goal": "Update set",
+  "solution-details": "",
+  "type": "Mobile",
+  "version": "1.0.0"
+}
