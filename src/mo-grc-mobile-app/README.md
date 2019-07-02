@@ -6,7 +6,7 @@ A Mobile Application to Demonstrate How Governance, Risk, and Compliance Agents 
 
 ## Screenshot
 
-![GRC Mobile App](https://raw.githubusercontent.com/platform-experience/mobile-template-library/src/mo-grc-mobile-app/images/main_grc.png)
+![GRC Mobile App](https://raw.githubusercontent.com/platform-experience/mobile-template-library/feature/src/mo-grc-mobile-app/images/main_grc.png)
 
 ## Additional Information/Notes
 
@@ -17,7 +17,7 @@ View Unassigned Issues: Active, and assigned to is empty. Can assign the Issue t
 
 ## Installation
 
-Download and install update set **[mo-grc-mobile-app.u-update-set.xml](https://github.com/platform-experience/mobile-template-library/src/mo-grc-mobile-app/mo-grc-mobile-app.u-update-set.xml)**
+Download and install update set **[mo-grc-mobile-app.u-update-set.xml](https://github.com/platform-experience/mobile-template-library/blob/feature/src/mo-grc-mobile-app/mo-grc-mobile-app.u-update-set.xml)**
 
 * SN Product Documentation - ['Load a customization from a single XML file'](https://docs.servicenow.com/bundle/kingston-application-development/page/build/system-update-sets/task/t_SaveAnUpdateSetAsAnXMLFile.html)
 
