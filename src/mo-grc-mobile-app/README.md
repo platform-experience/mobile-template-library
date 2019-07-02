@@ -6,7 +6,7 @@ A Mobile Application to Demonstrate How Governance, Risk, and Compliance Agents 
 
 ## Screenshot
 
-![GRC Mobile App](https://raw.githubusercontent.com/platform-experience/mobile-template-library/master/src/mo-grc-mobile-app/images/main_grc.png)
+![GRC Mobile App](https://raw.githubusercontent.com/platform-experience/mobile-template-library/master/src/mo-grc-mobile-app/images/main_grc.PNG)
 
 ## Additional Information/Notes
 
