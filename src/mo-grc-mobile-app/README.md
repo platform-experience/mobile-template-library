@@ -17,6 +17,11 @@ View Unassigned Issues: Active, and assigned to is empty. Can assign the Issue t
 
 ## Installation
 
+Necessary plugins: 
+
+* GRC: Policy and Compliance Management Dependencies 
+* GRC: Policy and Compliance Management
+
 Download and install update set **[mo-grc-mobile-app.u-update-set.xml](https://github.com/platform-experience/mobile-template-library/blob/master/src/mo-grc-mobile-app/mo-grc-mobile-app.u-update-set.xml)**
 
 * SN Product Documentation - ['Load a customization from a single XML file'](https://docs.servicenow.com/bundle/kingston-application-development/page/build/system-update-sets/task/t_SaveAnUpdateSetAsAnXMLFile.html)
