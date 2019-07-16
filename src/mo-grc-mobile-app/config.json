@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "category": "GRC",
+  "common-name": "GRC Agent",
+  "compatibility": [
+    "Madrid"
+  ],
+  "contributors": [
+    "Brian Clauzel"
+  ],
+  "keywords": [
+    "Mobile",
+    "SkyNow",
+    "SKO19",
+    "GRC",
+    "Risks",
+    "Tasks",
+    "Issues"
+  ],
+  "name": "mo-grc-mobile-app",
+  "publishing-goal": "Update set",
+  "solution-details": "A Mobile Application to Demonstrate How Governance, Risk, and Compliance Agents Could Utilize ServiceNow's Mobile Capabilities.",
+  "type": "Mobile",
+  "version": "1.0.0"
+}
