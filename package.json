@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "yarn": "^1.13.0"
+    "yarn": "^1.22.0"
   }
 }
